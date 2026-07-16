@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import "./App.css";
-import WeatherCard from "./components/WeatherCard";
+import WeatherCard from "./Components/WeatherCard";
 
 const API_KEY = "b42b9d6de17a2bf80ca974405f24120c";
 
